@@ -137,7 +137,7 @@
 .hero-image{
     position: absolute;
     top: 10rem;
-    right: 6rem;
+    right: 100px;
     width: 421px;
 }
 .hero-image-back{
